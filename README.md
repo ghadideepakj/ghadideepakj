@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in iOS developement, Swift, Flutter development, Dart
-- 🌱 I’m currently learning Swift, Dart
 - 📫 How to reach me - mail me at ghadideepak93@gmail.com
 
 <!---
